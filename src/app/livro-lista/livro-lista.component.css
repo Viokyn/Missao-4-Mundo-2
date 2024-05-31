@@ -1,0 +1,14 @@
+.container {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+}
+
+
+.btn-excluir {
+    width: 5rem;
+    min-width: 0;
+}
+
